@@ -1,0 +1,25 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Erro.";
+}
+
+<h1 class="text-danger">Erro!</h1>
+<h2 class="text-danger">Um erro aconteceu ao tentar produzir sua requisição.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>ID da Requisição:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>Modo de Desenvolvimento</h3>
+<p>
+    Mudar para o <strong>ambiente de desenvolvimento</strong> irá aparecer mais detalhes do problema/erro que ocorreu.
+</p>
+<p>
+    <strong>O ambiente de produção NÃO deve ser utilizado para aplicações em produção.</strong>
+    Este ambiente pode conter informações sensíveis das Exceptions para os usuários finais.
+    Para debugar localmente, habilite o <strong>ambiente de desenvolvimento</strong> (Development environment)
+    mudando a variável de ambiente <strong>ASPNETCORE_ENVIRONMENT</strong> para <strong>Development</strong> e reinicie o projeto/aplicação.
+</p>

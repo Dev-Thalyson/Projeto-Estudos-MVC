@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Veja os produtos";
+}
+
+@model List<Produto>
+
+<div style="text-align: center; margin-top: 40px;">
+    <h2 style="font-family: Arial, sans-serif; color: #333;">Produtos</h2>
+</div>
+
+<table style="width: 100%; border-collapse: collapse; margin: auto; max-width: 800px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
+    <thead>
+        <tr style="background-color: #28a745; color: white;">
+            <th style="padding: 10px; border: 1px solid #ccc;">Nome</th>
+            <th style="padding: 10px; border: 1px solid #ccc;">Descrição</th>
+            <th style="padding: 10px; border: 1px solid #ccc;">Preço</th>
+            <th style="padding: 10px; border: 1px solid #ccc;">Imagem</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var produto in Model)
+        {
+            <tr style="border-bottom: 1px solid #ccc; text-align: center;">
+                <td style="padding: 10px; border: 1px solid #ccc;">@produto.Name</td>
+                <td style="padding: 10px; border: 1px solid #ccc;">@produto.Description</td>
+                <td style="padding: 10px; border: 1px solid #ccc;">@produto.Price.ToString("C")</td>
+                <td style="padding: 10px; border: 1px solid #ccc;">
+                    <img src="@Url.Action("Imagem", "Product", new { id = produto.Id })" alt="Imagem do Produto" width="100" style="border-radius: 5px;" />
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

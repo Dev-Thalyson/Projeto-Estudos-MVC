@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ThalysonProjetoWEB
+build_property.RootNamespace = ThalysonProjetoWEB
+build_property.ProjectDir = C:\Users\PROGRAMADOR\Desktop\projeto teste site\ThalysonProjeto\ThalysonProjetoWEB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PROGRAMADOR\Desktop\projeto teste site\ThalysonProjeto\ThalysonProjetoWEB
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Account/criarConta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxjcmlhckNvbnRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Account/entrarConta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxlbnRyYXJDb250YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Account/Password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Home/Database.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhYmFzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Home/exceptionTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxleGNlcHRpb25UZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Product/criarProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxjcmlhclByb2R1dG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Product/verProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFx2ZXJQcm9kdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Request/getRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxnZXRSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Request/postRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxwb3N0UmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PROGRAMADOR/Desktop/projeto teste site/ThalysonProjeto/ThalysonProjetoWEB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jex3714zro

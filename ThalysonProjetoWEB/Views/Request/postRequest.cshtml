@@ -1,0 +1,19 @@
+﻿@using ThalysonProjetoWEB.Models
+@{
+    ViewData["Title"] = "Requisição POST";
+}
+@model Pessoa
+
+<h1>Formulário de Cadastro</h1> // formulário simples MVC p/ testes e/ou base.
+<form asp-action="postRequest" asp-controller="Request" method="post">
+    <div>
+        <label for="Nome">Nome:</label>
+        <input type="text" id="Nome" name="Nome" required />
+    </div>
+    <div>
+        <label for="Idade">Idade:</label>
+        <input type="number" id="Idade" name="Idade" required />
+    </div>
+    <br />  
+    <button type="submit">Cadastrar</button>
+</form>

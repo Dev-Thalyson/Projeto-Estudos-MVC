@@ -1,0 +1,35 @@
+﻿@using ThalysonProjetoWEB.Models
+@{
+    ViewData["Title"] = "getRequest";
+}
+
+@model List<Pessoa>
+
+<style>
+    td, th {
+        padding: 10px;
+        border: 1px solid black;
+        border-bottom: 2px solid gray;
+    }
+</style>
+
+<h1>Lista de Pessoas</h1>
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Idade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pessoa in Model)
+        {
+            <tr>
+                <td>@pessoa.ID</td>
+                <td>@pessoa.Nome</td>
+                <td>@pessoa.Idade</td>
+            </tr>
+        }
+    </tbody>
+</table>

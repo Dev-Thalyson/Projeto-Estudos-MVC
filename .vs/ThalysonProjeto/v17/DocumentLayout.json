@@ -1,0 +1,826 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\models\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\models\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\request\\postrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\request\\postrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\home\\database.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\home\\database.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\data\\sessionauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\data\\sessionauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\account\\password.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\account\\password.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\account\\criarconta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\account\\criarconta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\request\\getrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\request\\getrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\home\\exceptiontest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\home\\exceptiontest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\product\\verproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\product\\verproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\product\\criarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\product\\criarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\account\\entrarconta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\account\\entrarconta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PROGRAMADOR\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\thalysonprojetoweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\thalysonprojetoweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|c:\\users\\programador\\desktop\\projeto teste site\\thalysonprojeto\\thalysonprojetoweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6438CC63-6E23-4C3A-B967-553A24A543AF}|ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj|solutionrelative:thalysonprojetoweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\HomeController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ThalysonProjetoWEB\\Controllers\\HomeController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T17:27:21.4Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T17:22:11.674Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T17:24:30.052Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Home\\Database.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Home\\Database.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Home\\Database.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Home\\Database.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T18:11:31.046Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Program.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Program.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Program.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:21:46.452Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:20:36.125Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:35:03.145Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Controllers\\RequestController.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Controllers\\RequestController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:25:00.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:21:31.599Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBpwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T18:30:44.272Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\appsettings.json",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\appsettings.json",
+              "RelativeToolTip": "ThalysonProjetoWEB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T18:30:35.728Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Models\\Pessoa.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:22:31.851Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Data\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Data\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Data\\MongoDbContext.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Data\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:19:18.639Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "getRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Request\\getRequest.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Request\\getRequest.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Request\\getRequest.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Request\\getRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T17:50:09.16Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "postRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Request\\postRequest.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Request\\postRequest.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Request\\postRequest.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Request\\postRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T18:16:58.622Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "entrarConta.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Account\\entrarConta.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Account\\entrarConta.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Account\\entrarConta.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Account\\entrarConta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T17:43:54.017Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "criarConta.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Account\\criarConta.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Account\\criarConta.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Account\\criarConta.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Account\\criarConta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T17:42:54.185Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T17:24:26.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T19:39:15.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Models\\Produto.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:39:16.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:06:02.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T20:39:25.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:27:24.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Password.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Account\\Password.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Account\\Password.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Account\\Password.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Account\\Password.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T18:46:53.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:40:26.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Models\\Cadastro.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Models\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Models\\Cadastro.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Models\\Cadastro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:32:14.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Data\\SessionAuthFilter.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Data\\SessionAuthFilter.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Data\\SessionAuthFilter.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Data\\SessionAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:03:34.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "verProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Product\\verProduto.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Product\\verProduto.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Product\\verProduto.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Product\\verProduto.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T17:42:15.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "criarProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Product\\criarProduto.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Product\\criarProduto.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Product\\criarProduto.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Product\\criarProduto.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T17:41:51.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "exceptionTest.cshtml",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Home\\exceptionTest.cshtml",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Home\\exceptionTest.cshtml",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Home\\exceptionTest.cshtml",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Home\\exceptionTest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T20:45:14.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-31T19:05:53.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [Somente Leitura]",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwIkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:27:30.471Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bootstrap-utilities.css.map",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "RelativeToolTip": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-27T17:17:19.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "bootstrap.rtl.css",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "RelativeToolTip": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "ViewState": "AgIAAAYqAAAAAAAAAIBZwK0dAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-27T17:17:49.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAALEdAAAAAAAAAAAIwLwdAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-27T17:17:43.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Profile.css",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\css\\Profile.css",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\wwwroot\\css\\Profile.css",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\css\\Profile.css",
+              "RelativeToolTip": "ThalysonProjetoWEB\\wwwroot\\css\\Profile.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-31T18:04:35.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "bootstrap-utilities.rtl.css",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+              "RelativeToolTip": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+              "ViewState": "AgIAAN4EAAAAAAAAAAAIwOkEAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-27T17:17:26.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ThalysonProjetoWEB\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T17:26:07.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "bootstrap-utilities.min.css",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+              "RelativeToolTip": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAD3MQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-27T17:17:23.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ThalysonProjetoWEB.csproj",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj",
+              "RelativeToolTip": "ThalysonProjetoWEB\\ThalysonProjetoWEB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T17:10:44.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "ThalysonProjetoWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AgIAAN4EAAAAAAAAAAAIwOcEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-27T17:16:47.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "ThalysonProjetoWEB\\Controllers\\HomeController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:24:05.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ThalysonProjetoWEB\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\PROGRAMADOR\\Desktop\\projeto teste site\\ThalysonProjeto\\ThalysonProjetoWEB\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ThalysonProjetoWEB\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-23T17:26:01.813Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Perfil Usuário";
+}
+
+<div class="container" style="max-width: 500px; margin: 0 auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background-color: #f9f9f9;">
+    <div class="text-center">
+        <h1 style="font-size: 1.8rem; margin-bottom: 20px; color: #333;">Perfil</h1>
+        <p style="font-size: 1rem; color: #555;">Aqui é onde você pode fazer suas operações relacionadas a sua conta.</p>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+        <label for="username" style="display: block; font-size: 0.9rem; color: #555;">Usuário</label>
+        <input type="text" id="username" name="username" disabled style="width: 100%; padding: 8px; font-size: 0.9rem; border: 1px solid #ccc; border-radius: 4px;" />
+    </div>
+
+    <div style="margin-bottom: 15px;">
+        <label for="password" style="display: block; font-size: 0.9rem; color: #555;">Senha</label>
+        <input type="text" id="password" name="password" disabled style="width: 100%; padding: 8px; font-size: 0.9rem; border: 1px solid #ccc; border-radius: 4px;" />
+    </div>
+
+    <form asp-action="trocarSenha" method="post">
+        <div class="text-center" style="margin-bottom: 20px;">
+            <button style="background-color: #007bff; color: white; padding: 10px 20px; font-size: 0.9rem; border: none; border-radius: 4px; cursor: pointer;">Mudar sua senha?</button>
+        </div>
+    </form>
+
+    <form asp-action="Desconectar" method="post">
+        <div class="text-center">
+            <button style="background-color: #ff6f61; color: white; padding: 10px 20px; font-size: 0.9rem; border: none; border-radius: 4px; cursor: pointer;">Desconectar.</button>
+        </div>
+    </form>
+</div>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        document.getElementById("username").value = @Json.Serialize(ViewData["nomeUsuario"]);
+        document.getElementById("password").value = @Json.Serialize(ViewData["senhaUsuario"]);
+    });
+</script>

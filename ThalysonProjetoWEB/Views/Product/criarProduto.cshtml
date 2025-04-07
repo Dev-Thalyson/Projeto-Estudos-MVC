@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Crie seu produto";
+}
+
+@model Produto
+
+<div style="text-align: center; margin-bottom: 20px;">
+    <h2 style="font-family: Arial, sans-serif; color: #333;">Criar Produto</h2>
+</div>
+
+<form asp-action="criarProduto" asp-controller="Product" method="post" enctype="multipart/form-data" style="max-width: 400px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9;">
+    <div style="margin-bottom: 15px;">
+        <label asp-for="Name" style="display: block; font-weight: bold;">Nome</label>
+        <input asp-for="Name" required placeholder="Insira o nome do produto aqui" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 5px;" />
+    </div>
+    <div style="margin-bottom: 15px;">
+        <label asp-for="Description" style="display: block; font-weight: bold;">Descrição</label>
+        <textarea asp-for="Description" required placeholder="Insira a descrição do produto aqui" style="width: 100%; resize: none; padding: 8px; border: 1px solid #ccc; border-radius: 5px;"></textarea>
+    </div>
+    <div style="margin-bottom: 15px;">
+        <label asp-for="Price" style="display: block; font-weight: bold;">Preço (R$)</label>
+        <input asp-for="Price" type="number" required step="0.01" placeholder="0.01" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 5px;" />
+    </div>
+    <div style="margin-bottom: 15px;">
+        <label for="image" style="display: block; font-weight: bold;">Imagem do Produto</label>
+        <input type="file" name="imagem" id="imagem" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 5px; background-color: white;" />
+    </div>
+    @if (ViewData["ProdutoCriar"] != null)
+    {
+        <p style="color: green; margin-top: 10px; font-size: 0.85rem; margin-bottom: 15px; text-align: center;">@ViewData["ProdutoCriar"]</p>
+    }
+    <button type="submit" style="width: 100%; padding: 10px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 1rem;">Criar</button>
+</form>
